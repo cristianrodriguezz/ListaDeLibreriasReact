@@ -109,6 +109,6 @@ https://pqina.nl/filepond/
 De los creadores de Moment, llega una liviana biblioteca para trabajar con fechas y tiempo en JavaScript.
 ¡Deja de usar Date y olvida los quebraderos de cabeza!
 
-#7. React Window
+# 7. React Window
 Renderiza solo los elementos que se vean de una lista, así mejoras el rendimiento de tu página.
 A esta técnica se le llama también "listas virtuales" y así sólo renderizas lo que necesita el usuario.
